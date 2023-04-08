@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antniob&label=Profile%20views&color=00c0a3&style=plastic" alt="antniob" /> </p>
 
-- 🌱 I’m currently learning **React.js, HTML/CSS and Azure**
+- 🌱 I’m currently working with **C#, Java and Python**
 
 - ⚡ Fun fact **I can play the guitar kind of**
 
