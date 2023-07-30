@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Antonio</h1>
-<h3 align="center">An aspiring frontend developer from Portugal</h3>
+<h3 align="center">An aspiring developer from Portugal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antniob&label=Profile%20views&color=00c0a3&style=plastic" alt="antniob" /> </p>
 
-- 🌱 I’m currently working with **C#, Java and Python**
+- 🌱 I’m currently working with **Java,, TypeScript and Python**
 
 - ⚡ Fun fact **I can play the guitar kind of**
 
