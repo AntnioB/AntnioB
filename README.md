@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antniob&label=Profile%20views&color=00c0a3&style=plastic" alt="antniob" /> </p>
 
-- 🌱 I’m currently working with **Java,, TypeScript and Python**
+- 🌱 I’m currently working with **Java, TypeScript and Python**
 
 - ⚡ Fun fact **I can play the guitar kind of**
 
